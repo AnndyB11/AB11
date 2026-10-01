@@ -1,0 +1,6 @@
+{
+  "name": "Seattle App - Instituto de Idiomas",
+  "description": "Seattle App - Sistema de gestión logística, control de asistencia por idiomas (Inglés, Francés, Portugués, Ruso, Alemán, Italiano), asignación de profesores y alertas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
